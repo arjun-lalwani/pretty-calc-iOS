@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B40EC6CE1DC5540800FF591A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40EC6CD1DC5540800FF591A /* SecondViewController.swift */; };
 		B4184BB31DC3C2720034C4AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4184BB21DC3C2720034C4AF /* AppDelegate.swift */; };
 		B4184BB51DC3C2720034C4AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4184BB41DC3C2720034C4AF /* ViewController.swift */; };
 		B4184BB81DC3C2720034C4AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4184BB61DC3C2720034C4AF /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B40EC6CD1DC5540800FF591A /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SecondViewController.swift; path = ../SecondViewController.swift; sourceTree = "<group>"; };
 		B4184BAF1DC3C2720034C4AF /* adv-calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "adv-calc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4184BB21DC3C2720034C4AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4184BB41DC3C2720034C4AF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				B4184BB21DC3C2720034C4AF /* AppDelegate.swift */,
 				B4184BB41DC3C2720034C4AF /* ViewController.swift */,
+				B40EC6CD1DC5540800FF591A /* SecondViewController.swift */,
 				B4184BB61DC3C2720034C4AF /* Main.storyboard */,
 				B4184BB91DC3C2720034C4AF /* Assets.xcassets */,
 				B4184BBB1DC3C2720034C4AF /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B40EC6CE1DC5540800FF591A /* SecondViewController.swift in Sources */,
 				B4184BB51DC3C2720034C4AF /* ViewController.swift in Sources */,
 				B4184BB31DC3C2720034C4AF /* AppDelegate.swift in Sources */,
 			);
@@ -514,6 +518,7 @@
 				B4184BD91DC3C2730034C4AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4184BDA1DC3C2730034C4AF /* Build configuration list for PBXNativeTarget "adv-calcTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +527,7 @@
 				B4184BDC1DC3C2730034C4AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4184BDD1DC3C2730034C4AF /* Build configuration list for PBXNativeTarget "adv-calcUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +536,7 @@
 				B4184BDF1DC3C2730034C4AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
