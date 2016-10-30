@@ -11,12 +11,20 @@ import UIKit
 class SecondViewController: UIViewController {
     
     @IBOutlet weak var historyLabel: UILabel!
+    @IBOutlet weak var historyLabel1: UILabel!
+    @IBOutlet weak var historyLabel2: UILabel!
+    @IBOutlet weak var historyLabel3: UILabel!
+    @IBOutlet weak var historyLabel4: UILabel!
     
-    var history: String = ""
+    var allHistory: [String] = ["", "", "", "", ""]
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        historyLabel.text = history
+        historyLabel.text = allHistory[0]
+        historyLabel1.text = allHistory[1]
+        historyLabel2.text = allHistory[2]
+        historyLabel3.text = allHistory[3]
+        historyLabel4.text = allHistory[4]
         // Do any additional setup after loading the view.
     }
 

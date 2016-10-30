@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "adv-calc/ViewController.swift"
-            timestampString = "499469396.387212"
+            timestampString = "499479208.081494"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "13"
@@ -22,30 +22,30 @@
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "adv_calc.ViewController.resultLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  symbolName = "adv_calc.ViewController.zero.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
                   moduleName = "adv-calc"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469397.335296"
+                  timestampString = "499478355.534934"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
                   offsetFromSymbolStart = "27">
                </Location>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "adv_calc.ViewController.resultLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  symbolName = "adv_calc.ViewController.zero.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
                   moduleName = "adv-calc"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469397.340526"
+                  timestampString = "499478355.53866"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
                   offsetFromSymbolStart = "42">
                </Location>
                <Location
@@ -56,12 +56,12 @@
                   moduleName = "adv-calc"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469397.343864"
+                  timestampString = "499478355.541752"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "70">
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "176">
                </Location>
                <Location
                   shouldBeEnabled = "No"
@@ -71,12 +71,12 @@
                   moduleName = "adv-calc"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469397.346552"
+                  timestampString = "499478355.544009"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "28">
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "100">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -88,90 +88,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "adv-calc/ViewController.swift"
-            timestampString = "499469402.504994"
+            timestampString = "499490309.144312"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "12"
-            endingLineNumber = "12"
-            landmarkName = "ViewController"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "adv_calc.ViewController.resultLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
-                  moduleName = "adv-calc"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469402.512569"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "27">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "adv_calc.ViewController.resultLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
-                  moduleName = "adv-calc"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469402.5157"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "42">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "adv_calc.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; adv_calc.ViewController"
-                  moduleName = "adv-calc"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469402.518543"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "70">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "adv_calc.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adv_calc.ViewController&gt;"
-                  moduleName = "adv-calc"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
-                  timestampString = "499469402.520822"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "28">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "adv-calc/ViewController.swift"
-            timestampString = "499471998.387234"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
-            landmarkName = "showNumber(_:)"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -182,13 +104,88 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "adv-calc/ViewController.swift"
-            timestampString = "499472797.024809"
+            timestampString = "499479389.381032"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "ViewController"
-            landmarkType = "3">
+            startingLineNumber = "4"
+            endingLineNumber = "4">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.ViewController.__deallocating_deinit"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
+                  timestampString = "499479389.389858"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; adv_calc.ViewController"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
+                  timestampString = "499479389.393186"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; adv_calc.ViewController"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
+                  timestampString = "499479389.395899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adv_calc.ViewController&gt;"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
+                  timestampString = "499479389.402867"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adv_calc.ViewController&gt;"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/ViewController.swift"
+                  timestampString = "499479389.412858"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

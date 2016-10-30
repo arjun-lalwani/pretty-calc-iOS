@@ -12,7 +12,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var textField: UILabel!
     
-
     @IBOutlet weak var zero: UIButton!
     @IBOutlet weak var one: UIButton!
     @IBOutlet weak var two: UIButton!
@@ -31,8 +30,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var count: UIButton!
     @IBOutlet weak var avg: UIButton!
     @IBOutlet weak var fact: UIButton!
+    @IBOutlet weak var mod: UIButton!
     
-    var operations: [String] = ["+", "-", "x","÷","=","Count","Average"]
+    var operations: [String] = ["+", "-", "x","÷","%","=","Count","Average"]
     var firstNumber : String = ""
     var currentOperation: String = ""
     var currentNumber : String = ""
@@ -42,8 +42,9 @@ class ViewController: UIViewController {
     var fistNumberPressed : Bool = false
     var countOperation : Bool = false
     var avgOperation: Bool = false
-    var history: String = ""
-    
+    var indexPosition: Int = 0
+    var cycle: Int = 0
+    var history: [String] = ["", "", "", "", ""]
     
     // all numbers from 0 to 9 are connected and user gets
     // to pick a number of any size, which is then stored
@@ -51,13 +52,20 @@ class ViewController: UIViewController {
         let numberPressed = sender.titleLabel!!.text
         currentNumber += numberPressed!
         textField.text = currentNumber
-        history = numberPressed!
+        checkValidIndex()
+        if (currentOperation == "" && cycle > 0) {
+            history[indexPosition] += ", \(numberPressed!)"
+        } else {
+            history[indexPosition] += numberPressed!
+        }
+        
     }
     
     
     // clears and resets the entire app to defaults stage
     @IBAction func clearAll(_ sender: AnyObject) {
-  //      reset()
+        reset()
+        history = ["", "", "", "", ""]
         textField.text = String(total)
     }
     
@@ -75,15 +83,17 @@ class ViewController: UIViewController {
             }
             factorial = totalFact
             textField.text = String(factorial)
-            history += "! =" + textField.text! + " "
-            //reset()
+            checkValidIndex()
+            history[indexPosition] +=  " ! =" + textField.text! + " "
+            indexPosition += 1
+            reset()
         }
     }
     
     // records the action entered by user and does appropriate calculations requested
     // by user
     @IBAction func recordOperation(_ sender: AnyObject) {
-        
+
         // changing total of first time to the first number entered
         if (!fistNumberPressed) {
             countNumbers = 1
@@ -93,6 +103,7 @@ class ViewController: UIViewController {
             }
             total = Double(currentNumber)!
         }
+        
         
         // checks which was the last operation and uses that to perform a function with
         // the new number
@@ -105,6 +116,9 @@ class ViewController: UIViewController {
         case "x" : total *= Double(currentNumber)!
             
         case "÷" : total /= Double(currentNumber)!
+            
+        case "%" : total
+            = total.truncatingRemainder(dividingBy: Double(currentNumber)!)
             
         case "Count": countNumbers = countNumbers + 1; countOperation = true
             
@@ -121,6 +135,8 @@ class ViewController: UIViewController {
             if operationPressed == operation {
                 currentOperation = operationPressed!
                 if (currentOperation != "=") {
+                    checkValidIndex()
+                    history[indexPosition] += " \(currentOperation) "
                     textField.text = currentOperation
                 }
             }
@@ -139,6 +155,9 @@ class ViewController: UIViewController {
             } else {
                 textField.text = String(total)
             }
+            checkValidIndex()
+            history[indexPosition] += " = \(textField.text!)"
+            indexPosition += 1
             reset()
         }
     }
@@ -151,10 +170,16 @@ class ViewController: UIViewController {
         firstNumber = ""
         currentOperation = ""
         currentNumber = ""
-        history = ""
         total = 0.0
         factorial = 0.0
         countNumbers = 0
+    }
+    
+    func checkValidIndex() {
+        if indexPosition > 4 {
+            indexPosition = 0
+            cycle += 1
+        }
     }
     
     override func viewDidLoad() {
@@ -169,6 +194,6 @@ class ViewController: UIViewController {
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let secondViewController: SecondViewController = segue.destination as! SecondViewController
-        secondViewController.history = history
+        secondViewController.allHistory = history
     }
 }

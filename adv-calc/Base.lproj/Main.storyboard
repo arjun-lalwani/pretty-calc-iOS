@@ -23,6 +23,7 @@
                                 <frame key="frameInset" minY="410" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="1">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
@@ -35,6 +36,7 @@
                                 <frame key="frameInset" minX="196" minY="320" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="6">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -46,6 +48,7 @@
                                 <frame key="frameInset" minX="98" minY="410" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="2">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -57,6 +60,7 @@
                                 <frame key="frameInset" minY="320" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="4">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -68,6 +72,7 @@
                                 <frame key="frameInset" minY="229" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="7">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -79,6 +84,7 @@
                                 <frame key="frameInset" minX="98" minY="320" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="5">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -90,6 +96,7 @@
                                 <frame key="frameInset" minX="98" minY="229" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <state key="normal" title="8">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -101,6 +108,7 @@
                                 <frame key="frameInset" minX="196" minY="410" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="3">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -112,6 +120,7 @@
                                 <frame key="frameInset" minY="587" width="291" height="80"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
                                 <state key="normal" title="Factorial">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -123,6 +132,7 @@
                                 <frame key="frameInset" minX="294" minY="501" width="81" height="84"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="+">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -134,8 +144,8 @@
                                 <frame key="frameInset" minX="294" minY="411" width="81" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <state key="normal" title="- ">
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <state key="normal" title="-">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -146,6 +156,7 @@
                                 <frame key="frameInset" minX="294" minY="320" width="81" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <state key="normal" title="x">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -157,6 +168,7 @@
                                 <frame key="frameInset" minX="294" minY="229" width="81" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="÷">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -168,6 +180,7 @@
                                 <frame key="frameInset" minX="196" minY="229" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="9">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -179,7 +192,8 @@
                                 <frame key="frameInset" minX="196" minY="139" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="Avg">
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Average">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -190,14 +204,19 @@
                                 <frame key="frameInset" minY="501" width="291" height="84"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="0">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
+                                <connections>
+                                    <action selector="showNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bl1-9x-VYh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8dd-2W-kqv">
                                 <frame key="frameInset" minX="294" minY="139" width="81" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.44747027873299727" green="0.26145924346058552" blue="0.78327470549738221" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="%">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -205,19 +224,11 @@
                                     <action selector="recordOperation:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1gO-Rj-pGw"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rjm-f1-Cjg">
-                                <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="136" id="ipI-i2-cgi"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="51"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="t8Z-Oj-hP2">
                                 <frame key="frameInset" minX="294" minY="587" width="81" height="80"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="=">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -229,6 +240,7 @@
                                 <frame key="frameInset" minX="98" minY="139" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="Count">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -240,6 +252,7 @@
                                 <frame key="frameInset" minY="139" width="95" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="AC">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -247,9 +260,27 @@
                                     <action selector="clearAll:" destination="BYZ-38-t0r" eventType="touchUpInside" id="JSH-5L-3IT"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rjm-f1-Cjg">
+                                <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="136" id="ipI-i2-cgi"/>
+                                </constraints>
+                                <attributedString key="attributedText">
+                                    <fragment content="0                    ">
+                                        <attributes>
+                                            <color key="NSColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <font key="NSFont" size="60" name=".SFNSDisplay-Regular"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="rightToLeft" firstLineHeadIndent="15" lineHeightMultiple="1.5" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p7o-ar-3mc">
-                                <frame key="frameInset" minX="16" minY="20" width="50" height="30"/>
+                                <frame key="frameInset" minX="16" minY="20" width="63" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <state key="normal" title="History">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -274,6 +305,7 @@
                         <outlet property="fact" destination="xel-1a-l9H" id="2ed-Ds-D7W"/>
                         <outlet property="five" destination="dVt-H8-6qx" id="zhl-UJ-4bK"/>
                         <outlet property="four" destination="iDP-f5-cae" id="QRD-IW-2Sw"/>
+                        <outlet property="mod" destination="8dd-2W-kqv" id="PkZ-mD-5cy"/>
                         <outlet property="multiply" destination="LQl-nf-mOx" id="vcT-0r-L6X"/>
                         <outlet property="nine" destination="Tjx-TQ-mWj" id="Ojx-7Q-Wah"/>
                         <outlet property="one" destination="LJE-14-APX" id="ygn-gx-Nth"/>
@@ -302,16 +334,20 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="History" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dUB-FT-gqy">
-                                <frame key="frameInset" width="375" height="95"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="History" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dUB-FT-gqy">
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="104" id="ynJ-xp-Wi9"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name=".SFNSDisplay-Regular" family=".SF NS Display" pointSize="35"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nm6-r6-Lo8">
-                                <frame key="frameInset" minY="609" width="375" height="58"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nm6-r6-Lo8">
                                 <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="75" id="hfU-W7-eyI"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Back">
                                     <color key="titleColor" red="1" green="0.80063125189999995" blue="0.29341332530000003" alpha="1" colorSpace="calibratedRGB"/>
@@ -324,38 +360,98 @@
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6NG-Yj-a0C">
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="42" id="RHr-iA-zVb"/>
+                                            <constraint firstAttribute="height" constant="55" id="Fs4-0s-IuO"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fJv-JJ-S03">
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="0W0-ok-fyE"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Recent Calculations " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qcB-q1-G0P">
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="65" id="fQ8-Mm-bDQ"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PXx-eF-sf1">
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="d0M-Mo-Wqd"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ghK-AA-ING">
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="rra-1U-OtH"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kkW-bm-X2M">
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="8Kp-kR-FBG"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
+                                <color key="backgroundColor" red="0.4474702787" green="0.26145924349999999" blue="0.7832747055" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstItem="6NG-Yj-a0C" firstAttribute="leading" secondItem="QtH-kv-rZd" secondAttribute="leadingMargin" id="CvZ-0I-KM5"/>
-                                    <constraint firstItem="6NG-Yj-a0C" firstAttribute="top" secondItem="QtH-kv-rZd" secondAttribute="topMargin" id="G2y-2G-d9b"/>
-                                    <constraint firstItem="6NG-Yj-a0C" firstAttribute="centerX" secondItem="QtH-kv-rZd" secondAttribute="centerX" id="K9T-fI-Iai"/>
-                                    <constraint firstItem="6NG-Yj-a0C" firstAttribute="trailing" secondItem="QtH-kv-rZd" secondAttribute="trailingMargin" id="ZFA-3r-EjH"/>
-                                    <constraint firstAttribute="bottom" secondItem="6NG-Yj-a0C" secondAttribute="bottom" constant="448" id="Za3-Sw-1uS"/>
+                                    <constraint firstItem="PXx-eF-sf1" firstAttribute="leading" secondItem="ghK-AA-ING" secondAttribute="leading" id="03m-FW-Gjf"/>
+                                    <constraint firstItem="6NG-Yj-a0C" firstAttribute="trailing" secondItem="fJv-JJ-S03" secondAttribute="trailing" id="5ia-G6-DPm"/>
+                                    <constraint firstItem="qcB-q1-G0P" firstAttribute="leading" secondItem="6NG-Yj-a0C" secondAttribute="leading" id="68X-sF-K4s"/>
+                                    <constraint firstItem="qcB-q1-G0P" firstAttribute="centerX" secondItem="QtH-kv-rZd" secondAttribute="centerX" id="AYB-Ay-9r4"/>
+                                    <constraint firstItem="ghK-AA-ING" firstAttribute="top" secondItem="PXx-eF-sf1" secondAttribute="bottom" constant="8" symbolic="YES" id="HO4-Aj-Qa3"/>
+                                    <constraint firstItem="qcB-q1-G0P" firstAttribute="leading" secondItem="QtH-kv-rZd" secondAttribute="leadingMargin" id="Olp-sg-pZC"/>
+                                    <constraint firstItem="PXx-eF-sf1" firstAttribute="top" secondItem="kkW-bm-X2M" secondAttribute="bottom" constant="8" symbolic="YES" id="Rqj-px-iyw"/>
+                                    <constraint firstAttribute="bottom" secondItem="ghK-AA-ING" secondAttribute="bottom" constant="110" id="Uan-Vc-SWg"/>
+                                    <constraint firstItem="kkW-bm-X2M" firstAttribute="trailing" secondItem="PXx-eF-sf1" secondAttribute="trailing" id="Ux6-sf-zul"/>
+                                    <constraint firstItem="fJv-JJ-S03" firstAttribute="leading" secondItem="kkW-bm-X2M" secondAttribute="leading" id="VlJ-qd-W1h"/>
+                                    <constraint firstItem="qcB-q1-G0P" firstAttribute="trailing" secondItem="QtH-kv-rZd" secondAttribute="trailingMargin" id="WeQ-8N-k9F"/>
+                                    <constraint firstItem="kkW-bm-X2M" firstAttribute="leading" secondItem="PXx-eF-sf1" secondAttribute="leading" id="a4A-BR-cQh"/>
+                                    <constraint firstItem="fJv-JJ-S03" firstAttribute="trailing" secondItem="kkW-bm-X2M" secondAttribute="trailing" id="aX8-YO-fqL"/>
+                                    <constraint firstItem="6NG-Yj-a0C" firstAttribute="top" secondItem="qcB-q1-G0P" secondAttribute="bottom" constant="8" symbolic="YES" id="cM3-hH-FZt"/>
+                                    <constraint firstItem="kkW-bm-X2M" firstAttribute="top" secondItem="fJv-JJ-S03" secondAttribute="bottom" constant="8" symbolic="YES" id="daT-aU-k6n"/>
+                                    <constraint firstItem="6NG-Yj-a0C" firstAttribute="leading" secondItem="fJv-JJ-S03" secondAttribute="leading" id="eP1-bu-UXp"/>
+                                    <constraint firstItem="qcB-q1-G0P" firstAttribute="trailing" secondItem="6NG-Yj-a0C" secondAttribute="trailing" id="eUy-0N-hve"/>
+                                    <constraint firstItem="qcB-q1-G0P" firstAttribute="top" secondItem="QtH-kv-rZd" secondAttribute="topMargin" id="gGK-Vk-d9g"/>
+                                    <constraint firstItem="PXx-eF-sf1" firstAttribute="trailing" secondItem="ghK-AA-ING" secondAttribute="trailing" id="h8G-MH-WcG"/>
+                                    <constraint firstItem="fJv-JJ-S03" firstAttribute="top" secondItem="6NG-Yj-a0C" secondAttribute="bottom" constant="8" symbolic="YES" id="wJs-Kj-NRO"/>
                                 </constraints>
                             </scrollView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstAttribute="bottom" secondItem="QtH-kv-rZd" secondAttribute="bottom" constant="66" id="EMj-3t-GsB"/>
-                            <constraint firstItem="QtH-kv-rZd" firstAttribute="trailing" secondItem="Nm6-r6-Lo8" secondAttribute="trailing" id="LqN-5e-Fs5"/>
-                            <constraint firstItem="QtH-kv-rZd" firstAttribute="top" secondItem="dUB-FT-gqy" secondAttribute="bottom" constant="8" symbolic="YES" id="NRI-M3-8dF"/>
-                            <constraint firstItem="QtH-kv-rZd" firstAttribute="top" secondItem="lAD-Pb-qbH" secondAttribute="top" constant="103" id="PFI-cB-fGF"/>
-                            <constraint firstItem="QtH-kv-rZd" firstAttribute="leading" secondItem="lAD-Pb-qbH" secondAttribute="leading" id="PkN-M0-P3j"/>
-                            <constraint firstAttribute="trailing" secondItem="QtH-kv-rZd" secondAttribute="trailing" id="WQx-gx-QRo"/>
-                            <constraint firstItem="QtH-kv-rZd" firstAttribute="leading" secondItem="dUB-FT-gqy" secondAttribute="leading" id="jLI-mS-4kJ"/>
-                            <constraint firstItem="QtH-kv-rZd" firstAttribute="trailing" secondItem="dUB-FT-gqy" secondAttribute="trailing" id="ji2-J7-auy"/>
-                            <constraint firstItem="Nm6-r6-Lo8" firstAttribute="top" secondItem="QtH-kv-rZd" secondAttribute="bottom" constant="8" symbolic="YES" id="x1Q-3M-pAl"/>
-                            <constraint firstItem="QtH-kv-rZd" firstAttribute="leading" secondItem="Nm6-r6-Lo8" secondAttribute="leading" id="zqd-a3-8CV"/>
+                            <constraint firstAttribute="trailing" secondItem="QtH-kv-rZd" secondAttribute="trailing" id="2mP-es-y7k"/>
+                            <constraint firstItem="QtH-kv-rZd" firstAttribute="leading" secondItem="lAD-Pb-qbH" secondAttribute="leading" id="5zL-cA-pNO"/>
+                            <constraint firstItem="Nm6-r6-Lo8" firstAttribute="bottom" secondItem="7qp-HH-kob" secondAttribute="top" id="Och-9I-S7u"/>
+                            <constraint firstItem="dUB-FT-gqy" firstAttribute="top" secondItem="lAD-Pb-qbH" secondAttribute="top" id="PKA-ze-IVm"/>
+                            <constraint firstItem="Nm6-r6-Lo8" firstAttribute="trailing" secondItem="QtH-kv-rZd" secondAttribute="trailing" id="TOH-GT-R7c"/>
+                            <constraint firstItem="dUB-FT-gqy" firstAttribute="leading" secondItem="QtH-kv-rZd" secondAttribute="leading" id="Uyi-Mf-0wf"/>
+                            <constraint firstItem="Nm6-r6-Lo8" firstAttribute="leading" secondItem="QtH-kv-rZd" secondAttribute="leading" id="fVp-di-ZXV"/>
+                            <constraint firstItem="QtH-kv-rZd" firstAttribute="top" secondItem="iec-M4-kNi" secondAttribute="bottom" constant="76" id="hXg-NJ-Ktw"/>
+                            <constraint firstItem="7qp-HH-kob" firstAttribute="top" secondItem="QtH-kv-rZd" secondAttribute="bottom" constant="73" id="rut-mN-zdu"/>
+                            <constraint firstItem="dUB-FT-gqy" firstAttribute="trailing" secondItem="QtH-kv-rZd" secondAttribute="trailing" id="wXu-Zs-Lys"/>
                         </constraints>
                     </view>
                     <connections>
                         <outlet property="historyLabel" destination="6NG-Yj-a0C" id="f94-o8-bFd"/>
+                        <outlet property="historyLabel1" destination="fJv-JJ-S03" id="diX-ln-kaf"/>
+                        <outlet property="historyLabel2" destination="kkW-bm-X2M" id="iWO-1i-3xG"/>
+                        <outlet property="historyLabel3" destination="PXx-eF-sf1" id="8lw-IB-2Oc"/>
+                        <outlet property="historyLabel4" destination="ghK-AA-ING" id="VgW-LG-FEz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FRw-bT-XKy" userLabel="First Responder" sceneMemberID="firstResponder"/>
