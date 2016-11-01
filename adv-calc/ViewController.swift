@@ -82,9 +82,9 @@ class ViewController: UIViewController {
                 currentNum = currentNum - 1
             }
             factorial = totalFact
-            textField.text = String(factorial)
+            textField.text = String(factorial) + "  "
             checkValidIndex()
-            history[indexPosition] +=  " ! =" + textField.text! + " "
+            history[indexPosition] +=  " ! =" + textField.text!
             indexPosition += 1
             reset()
         }
@@ -137,7 +137,7 @@ class ViewController: UIViewController {
                 if (currentOperation != "=") {
                     checkValidIndex()
                     history[indexPosition] += " \(currentOperation) "
-                    textField.text = currentOperation
+                    textField.text = currentOperation + "  "
                 }
             }
         }
@@ -149,7 +149,7 @@ class ViewController: UIViewController {
         // displays result and resets everything to default value
         if (currentOperation == "=") {
             if (countOperation) {
-                textField.text = String(countNumbers)
+                textField.text = String(Double(countNumbers))
             } else if (avgOperation) {
                 textField.text = String(total / Double(countNumbers))
             } else {

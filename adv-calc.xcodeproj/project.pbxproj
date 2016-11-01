@@ -15,6 +15,7 @@
 		B4184BBD1DC3C2720034C4AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4184BBB1DC3C2720034C4AF /* LaunchScreen.storyboard */; };
 		B4184BC81DC3C2730034C4AF /* adv_calcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4184BC71DC3C2730034C4AF /* adv_calcTests.swift */; };
 		B4184BD31DC3C2730034C4AF /* adv_calcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4184BD21DC3C2730034C4AF /* adv_calcUITests.swift */; };
+		B44D36951DC5B9C200F15FE4 /* UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44D36941DC5B9C200F15FE4 /* UILabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B4184BCE1DC3C2730034C4AF /* adv-calcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "adv-calcUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4184BD21DC3C2730034C4AF /* adv_calcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adv_calcUITests.swift; sourceTree = "<group>"; };
 		B4184BD41DC3C2730034C4AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B44D36941DC5B9C200F15FE4 /* UILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				B4184BB21DC3C2720034C4AF /* AppDelegate.swift */,
+				B44D36941DC5B9C200F15FE4 /* UILabel.swift */,
 				B4184BB41DC3C2720034C4AF /* ViewController.swift */,
 				B40EC6CD1DC5540800FF591A /* SecondViewController.swift */,
 				B4184BB61DC3C2720034C4AF /* Main.storyboard */,
@@ -267,6 +270,7 @@
 			files = (
 				B40EC6CE1DC5540800FF591A /* SecondViewController.swift in Sources */,
 				B4184BB51DC3C2720034C4AF /* ViewController.swift in Sources */,
+				B44D36951DC5B9C200F15FE4 /* UILabel.swift in Sources */,
 				B4184BB31DC3C2720034C4AF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

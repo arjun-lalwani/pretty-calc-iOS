@@ -188,5 +188,98 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adv-calc/UILabel.swift"
+            timestampString = "499497793.545881"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "textField"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.textField.__deallocating_deinit"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/UILabel.swift"
+                  timestampString = "499497794.550345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.textField.init (frame : __C.CGRect) -&gt; adv_calc.textField"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/UILabel.swift"
+                  timestampString = "499497794.5535"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.textField.__allocating_init (frame : __C.CGRect) -&gt; adv_calc.textField"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/UILabel.swift"
+                  timestampString = "499497794.555734"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.textField.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adv_calc.textField&gt;"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/UILabel.swift"
+                  timestampString = "499497794.558061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adv_calc.textField.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adv_calc.textField&gt;"
+                  moduleName = "adv-calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arjunlalwani/Desktop/iOS-Apps/adv-calc/adv-calc/UILabel.swift"
+                  timestampString = "499497794.560545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
